@@ -25,8 +25,7 @@
             "healthy_error": null,
             "latest_version": "18.0.42",
             "latest_app_version": "2023.3.24",
-            "latest_human_version": "2023.3.24_18.0.42",
-            "icon_url": "https://concourse-ci.org/images/logo-white.svg"
+            "latest_human_version": "2023.3.24_18.0.42"
         }
     }
 }
