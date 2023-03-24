@@ -13,9 +13,7 @@
             "latest_app_version": "2023.2.5",
             "latest_human_version": "2023.2.5_18.0.42",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png"
-        }
-    },
-    {
+        },
         "concourse": {
             "name": "concourse",
             "categories": [
