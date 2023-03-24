@@ -18,7 +18,9 @@
     {
         "concourse": {
             "name": "concourse",
-            "categories": [],
+            "categories": [
+                "ci"
+            ],
             "app_readme": "<p>Concourse CI App created by Cameron Sabuda</p>",
             "location": "/home/runner/work/catalog/catalog/stable/concourse",
             "healthy": true,
