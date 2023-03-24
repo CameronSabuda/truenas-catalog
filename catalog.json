@@ -25,7 +25,8 @@
             "healthy_error": null,
             "latest_version": "18.0.42",
             "latest_app_version": "2023.3.24",
-            "latest_human_version": "2023.3.24_18.0.42"
+            "latest_human_version": "2023.3.24_18.0.42",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png"
         }
     }
 }
